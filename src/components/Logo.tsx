@@ -10,7 +10,7 @@ const Logo = () => {
         alt="logo"
         className="h-[60px] object-cover"
       />
-      <p className="text-base">Company Name</p>
+      <p className="text-base">Burmese Bang</p>
     </Link>
   );
 };
