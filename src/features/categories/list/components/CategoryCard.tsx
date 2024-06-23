@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const CastCard = () => {
+const CategoryCard = () => {
   return (
     <Link
       to=""
@@ -20,4 +20,4 @@ const CastCard = () => {
   );
 };
 
-export default CastCard;
+export default CategoryCard;
